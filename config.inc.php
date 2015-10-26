@@ -17,7 +17,7 @@
 $cfg['blowfish_secret'] = '456ndbfbsfr4156'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
 /**
- * Servers configuration
+ * Servers configuration y
  */
 $i = 0;
 
